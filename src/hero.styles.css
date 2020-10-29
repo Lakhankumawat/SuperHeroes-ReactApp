@@ -16,8 +16,8 @@ body {
 }
 
 .card {
-  border-radius: 25px;
-  box-shadow: -11px 11px 1px rgba(0, 0, 0, 0.3);
+  width: 350px;
+  padding: 7px 12px;
 }
 
 .card-head {
@@ -34,7 +34,6 @@ body {
   filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fa782e', endColorstr='#c82930', GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
   border-radius: 25px 25px 0 0;
-  width: 350px;
 }
 
 .card-logo {
@@ -77,7 +76,6 @@ body {
   height: 255px;
   background: #fff;
   border-radius: 0 0 25px 25px;
-  width: 350px;
 }
 
 .product-title {
