@@ -7,4 +7,4 @@ In this app i m currently working on to fetch data from API which contains super
 ### 2.[Fork the sandbox](https://codesandbox.io/embed/heroes-app-ybl49?codemirror=1)
 
 # Help Wanted
-### 1. API which suits the best for the App.
+### 1. Fetch API method doesn't seem to work if anyone wants to help then please.
